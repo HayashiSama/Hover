@@ -1,3 +1,5 @@
+$(document).ready()
+{
 $("img").hover( 
 	function()
 	{
@@ -14,3 +16,4 @@ $("img").hover(
 
 
 );
+}
